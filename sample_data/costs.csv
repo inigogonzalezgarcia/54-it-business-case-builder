@@ -1,0 +1,99 @@
+Option,Item,Category,Type,Year,Amount,Confidence,Basis
+BASE,ERP licences and support,licences,opex,1,310000,high,Current contract; extended support uplift from year 2
+BASE,ERP licences and support,licences,opex,2,380000,high,Current contract; extended support uplift from year 2
+BASE,ERP licences and support,licences,opex,3,400000,high,Current contract; extended support uplift from year 2
+BASE,ERP licences and support,licences,opex,4,420000,high,Current contract; extended support uplift from year 2
+BASE,ERP licences and support,licences,opex,5,440000,high,Current contract; extended support uplift from year 2
+BASE,Hardware maintenance for the ERP servers,hardware maintenance,opex,1,95000,high,Maintenance contract
+BASE,Hardware maintenance for the ERP servers,hardware maintenance,opex,2,95000,high,Maintenance contract
+BASE,Hardware maintenance for the ERP servers,hardware maintenance,opex,3,95000,high,Maintenance contract
+BASE,Hardware maintenance for the ERP servers,hardware maintenance,opex,4,95000,high,Maintenance contract
+BASE,Hardware maintenance for the ERP servers,hardware maintenance,opex,5,95000,high,Maintenance contract
+BASE,Data centre hosting and power,hosting,opex,1,60000,high,Facilities recharge
+BASE,Data centre hosting and power,hosting,opex,2,60000,high,Facilities recharge
+BASE,Data centre hosting and power,hosting,opex,3,60000,high,Facilities recharge
+BASE,Data centre hosting and power,hosting,opex,4,60000,high,Facilities recharge
+BASE,Data centre hosting and power,hosting,opex,5,60000,high,Facilities recharge
+BASE,Customisation upkeep (partner),licences,opex,1,180000,medium,Last 2 years' invoices
+BASE,Customisation upkeep (partner),licences,opex,2,180000,medium,Last 2 years' invoices
+BASE,Customisation upkeep (partner),licences,opex,3,180000,medium,Last 2 years' invoices
+BASE,Customisation upkeep (partner),licences,opex,4,180000,medium,Last 2 years' invoices
+BASE,Customisation upkeep (partner),licences,opex,5,180000,medium,Last 2 years' invoices
+BASE,Internal ERP team (4 FTE),internal staff,opex,1,300000,high,HR cost per FTE
+BASE,Internal ERP team (4 FTE),internal staff,opex,2,300000,high,HR cost per FTE
+BASE,Internal ERP team (4 FTE),internal staff,opex,3,300000,high,HR cost per FTE
+BASE,Internal ERP team (4 FTE),internal staff,opex,4,300000,high,HR cost per FTE
+BASE,Internal ERP team (4 FTE),internal staff,opex,5,300000,high,HR cost per FTE
+BASE,Security fixes on an unsupported release,implementation,opex,3,70000,low,Partner estimate
+BASE,Security fixes on an unsupported release,implementation,opex,4,70000,low,Partner estimate
+BASE,Security fixes on an unsupported release,implementation,opex,5,70000,low,Partner estimate
+A,New servers and storage,hardware,capex,0,420000,high,Vendor quote
+A,Upgrade project (partner),implementation,capex,0,650000,medium,Partner estimate
+A,Customisations carried over,migration,capex,0,280000,low,"Partner estimate, 140 objects"
+A,Training,training,opex,0,60000,medium,Internal estimate
+A,Internal team on the project,internal staff,opex,0,150000,high,2 FTE for a year
+A,Retire the old servers,decommission,opex,1,20000,medium,Disposal quote
+A,Contingency,contingency,capex,0,120000,medium,
+A,ERP licences and support,licences,opex,1,290000,high,Vendor quote
+A,ERP licences and support,licences,opex,2,290000,high,Vendor quote
+A,ERP licences and support,licences,opex,3,290000,high,Vendor quote
+A,ERP licences and support,licences,opex,4,290000,high,Vendor quote
+A,ERP licences and support,licences,opex,5,290000,high,Vendor quote
+A,Hardware maintenance for the ERP servers,hardware maintenance,opex,4,40000,high,Warranty 3 years
+A,Hardware maintenance for the ERP servers,hardware maintenance,opex,5,40000,high,Warranty 3 years
+A,Data centre hosting and power,hosting,opex,1,55000,high,Facilities recharge
+A,Data centre hosting and power,hosting,opex,2,55000,high,Facilities recharge
+A,Data centre hosting and power,hosting,opex,3,55000,high,Facilities recharge
+A,Data centre hosting and power,hosting,opex,4,55000,high,Facilities recharge
+A,Data centre hosting and power,hosting,opex,5,55000,high,Facilities recharge
+A,Customisation upkeep (partner),licences,opex,1,150000,medium,Partner estimate
+A,Customisation upkeep (partner),licences,opex,2,150000,medium,Partner estimate
+A,Customisation upkeep (partner),licences,opex,3,150000,medium,Partner estimate
+A,Customisation upkeep (partner),licences,opex,4,150000,medium,Partner estimate
+A,Customisation upkeep (partner),licences,opex,5,150000,medium,Partner estimate
+A,Internal ERP team (4 FTE),internal staff,opex,1,300000,high,HR cost per FTE
+A,Internal ERP team (4 FTE),internal staff,opex,2,300000,high,HR cost per FTE
+A,Internal ERP team (4 FTE),internal staff,opex,3,300000,high,HR cost per FTE
+A,Internal ERP team (4 FTE),internal staff,opex,4,300000,high,HR cost per FTE
+A,Internal ERP team (4 FTE),internal staff,opex,5,300000,high,HR cost per FTE
+B,Implementation partner,implementation,capex,0,900000,medium,"Vendor's partner, fixed price not agreed"
+B,Implementation partner,implementation,capex,1,300000,medium,
+B,Training,training,opex,0,80000,medium,Internal estimate
+B,Internal team on the project,internal staff,opex,0,220000,high,3 FTE
+B,Internal team on the project,internal staff,opex,1,150000,high,2 FTE
+B,SaaS ERP subscription,subscription,opex,1,260000,low,List price less a 35 % discount (A2)
+B,SaaS ERP subscription,subscription,opex,2,260000,low,List price less a 35 % discount (A2)
+B,SaaS ERP subscription,subscription,opex,3,260000,low,List price less a 35 % discount (A2)
+B,SaaS ERP subscription,subscription,opex,4,260000,low,List price less a 35 % discount (A2)
+B,SaaS ERP subscription,subscription,opex,5,260000,low,List price less a 35 % discount (A2)
+B,ERP licences and support,licences,opex,1,310000,high,Current contract until cut-over
+B,Data centre hosting and power,hosting,opex,1,60000,high,Until cut-over
+B,Internal ERP team (2 FTE),internal staff,opex,2,150000,high,HR cost per FTE
+B,Internal ERP team (2 FTE),internal staff,opex,3,150000,high,HR cost per FTE
+B,Internal ERP team (2 FTE),internal staff,opex,4,150000,high,HR cost per FTE
+B,Internal ERP team (2 FTE),internal staff,opex,5,150000,high,HR cost per FTE
+C,Implementation partner,implementation,capex,0,600000,medium,"Fixed price per phase, signed proposal"
+C,Implementation partner,implementation,capex,1,200000,medium,Phase 2
+C,Data and customisation migration,migration,capex,0,200000,medium,Fit-gap of 140 objects: 90 retired
+C,Data and customisation migration,migration,capex,1,50000,medium,Phase 2
+C,Training,training,opex,0,70000,medium,"Train-the-trainer, 2 waves"
+C,Internal team on the project,internal staff,opex,0,200000,high,3 FTE
+C,Internal team on the project,internal staff,opex,1,120000,high,2 FTE
+C,"Retire the old ERP (archive, contracts, disposal)",decommission,opex,2,40000,medium,Archive quote
+C,Contingency,contingency,capex,0,120000,medium,10 % of one-off costs
+C,SaaS ERP subscription,subscription,opex,1,200000,high,"Signed quote, 3-year price cap (A4)"
+C,SaaS ERP subscription,subscription,opex,2,300000,high,"Signed quote, 3-year price cap (A4)"
+C,SaaS ERP subscription,subscription,opex,3,300000,high,"Signed quote, 3-year price cap (A4)"
+C,SaaS ERP subscription,subscription,opex,4,300000,high,"Signed quote, 3-year price cap (A4)"
+C,SaaS ERP subscription,subscription,opex,5,300000,high,"Signed quote, 3-year price cap (A4)"
+C,ERP licences and support,licences,opex,1,310000,high,Until phase 2
+C,ERP licences and support,licences,opex,2,150000,high,Until phase 2
+C,Hardware maintenance for the ERP servers,hardware maintenance,opex,1,95000,high,Until phase 2
+C,Hardware maintenance for the ERP servers,hardware maintenance,opex,2,45000,high,Until phase 2
+C,Data centre hosting and power,hosting,opex,1,60000,high,Until phase 2
+C,Data centre hosting and power,hosting,opex,2,30000,high,Until phase 2
+C,Internal ERP team,internal staff,opex,1,300000,high,"4 FTE, then 2.5"
+C,Internal ERP team,internal staff,opex,2,190000,high,"4 FTE, then 2.5"
+C,Internal ERP team,internal staff,opex,3,190000,high,"4 FTE, then 2.5"
+C,Internal ERP team,internal staff,opex,4,190000,high,"4 FTE, then 2.5"
+C,Internal ERP team,internal staff,opex,5,190000,high,"4 FTE, then 2.5"

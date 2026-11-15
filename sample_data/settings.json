@@ -1,0 +1,26 @@
+{
+  "organisation": "Proseware Leasing",
+  "title": "ERP: upgrade, move to SaaS or stay",
+  "review_date": "2026-11-15",
+  "decision": "Which ERP option to fund before mainstream support ends in December 2027.",
+  "currency": "EUR",
+  "horizon": 5,
+  "discount_rate": 0.08,
+  "max_payback_years": 4,
+  "hurdle_npv": 0,
+  "driver_pct": 20,
+  "contingency_pct": {
+    "high": 5,
+    "medium": 10,
+    "low": 20
+  },
+  "sensitivity_pct": 20,
+  "delay_months": 6,
+  "owners": {
+    "FINANCE": "Finance business partner",
+    "BENEFITS": "Business sponsor (CFO)",
+    "COSTS": "IT programme manager",
+    "RISKS": "IT programme manager",
+    "DECISION": "Investment committee"
+  }
+}

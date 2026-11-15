@@ -1,0 +1,37 @@
+Option,Benefit,Type,Kind,Year,Amount,KPI,Baseline,Target,Owner,Evidence,Assumption
+A,Fewer ERP incidents,avoidance,hard,2,40000,P1/P2 ERP incidents a month,22,12,Head of Operations,measured,
+A,Fewer ERP incidents,avoidance,hard,3,40000,P1/P2 ERP incidents a month,22,12,Head of Operations,measured,
+A,Fewer ERP incidents,avoidance,hard,4,40000,P1/P2 ERP incidents a month,22,12,Head of Operations,measured,
+A,Fewer ERP incidents,avoidance,hard,5,40000,P1/P2 ERP incidents a month,22,12,Head of Operations,measured,
+B,Stop hardware maintenance for the ERP servers,saving,hard,1,95000,,,,IT Director,measured,
+B,Stop hardware maintenance for the ERP servers,saving,hard,2,95000,,,,IT Director,measured,
+B,Stop hardware maintenance for the ERP servers,saving,hard,3,95000,,,,IT Director,measured,
+B,Stop hardware maintenance for the ERP servers,saving,hard,4,95000,,,,IT Director,measured,
+B,Stop hardware maintenance for the ERP servers,saving,hard,5,95000,,,,IT Director,measured,
+B,Faster month-end close (overtime),productivity,hard,1,70000,Days to close,8,5,,estimate,A1
+B,Faster month-end close (overtime),productivity,hard,2,70000,Days to close,8,5,,estimate,A1
+B,Faster month-end close (overtime),productivity,hard,3,70000,Days to close,8,5,,estimate,A1
+B,Faster month-end close (overtime),productivity,hard,4,70000,Days to close,8,5,,estimate,A1
+B,Faster month-end close (overtime),productivity,hard,5,70000,Days to close,8,5,,estimate,A1
+B,Self-service reports replace the BI contractor,saving,hard,2,120000,,,,CFO,assumption,A3
+B,Self-service reports replace the BI contractor,saving,hard,3,120000,,,,CFO,assumption,A3
+B,Self-service reports replace the BI contractor,saving,hard,4,120000,,,,CFO,assumption,A3
+B,Self-service reports replace the BI contractor,saving,hard,5,120000,,,,CFO,assumption,A3
+B,Fewer ERP incidents,avoidance,hard,3,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,estimate,
+B,Fewer ERP incidents,avoidance,hard,4,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,estimate,
+B,Fewer ERP incidents,avoidance,hard,5,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,estimate,
+C,Self-service reports replace the BI contractor,saving,hard,2,120000,BI contractor days a month,18,0,CFO,measured,A4
+C,Self-service reports replace the BI contractor,saving,hard,3,120000,BI contractor days a month,18,0,CFO,measured,A4
+C,Self-service reports replace the BI contractor,saving,hard,4,120000,BI contractor days a month,18,0,CFO,measured,A4
+C,Self-service reports replace the BI contractor,saving,hard,5,120000,BI contractor days a month,18,0,CFO,measured,A4
+C,Fewer ERP incidents,avoidance,hard,2,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,measured,
+C,Fewer ERP incidents,avoidance,hard,3,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,measured,
+C,Fewer ERP incidents,avoidance,hard,4,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,measured,
+C,Fewer ERP incidents,avoidance,hard,5,40000,P1/P2 ERP incidents a month,22,10,Head of Operations,measured,
+C,Faster month-end close (overtime),productivity,soft,2,70000,Days to close,8,5,Financial Controller,estimate,A1
+C,Faster month-end close (overtime),productivity,soft,3,70000,Days to close,8,5,Financial Controller,estimate,A1
+C,Faster month-end close (overtime),productivity,soft,4,70000,Days to close,8,5,Financial Controller,estimate,A1
+C,Faster month-end close (overtime),productivity,soft,5,70000,Days to close,8,5,Financial Controller,estimate,A1
+C,Leasing quotes approved the same day,revenue,soft,3,90000,Quotes approved within 24 h,61 %,90 %,Head of Sales,estimate,
+C,Leasing quotes approved the same day,revenue,soft,4,90000,Quotes approved within 24 h,61 %,90 %,Head of Sales,estimate,
+C,Leasing quotes approved the same day,revenue,soft,5,90000,Quotes approved within 24 h,61 %,90 %,Head of Sales,estimate,

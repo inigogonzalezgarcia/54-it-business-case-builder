@@ -1,0 +1,7 @@
+Option,Risk,Probability,Impact,Mitigation,Owner
+A,Customisations break on the new release,medium,250000,Regression test pack of 140 objects,IT programme manager
+A,Extended support needed again in 2032,low,300000,Roadmap review in year 3,CIO
+B,Big-bang cut-over fails at a month-end,medium,600000,,
+B,Customisations the SaaS cannot do,40 %,350000,Fit-gap before signing,IT programme manager
+C,Two ERPs in parallel for a year,high,120000,Interfaces frozen; one reconciliation a week,Financial Controller
+C,Leasing operations phase slips,medium,200000,Phase 2 starts only after phase 1 closes two month-ends,IT programme manager

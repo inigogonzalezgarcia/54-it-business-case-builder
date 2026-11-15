@@ -1,0 +1,5 @@
+Id,Assumption,Value,Source,Owner,Validated
+A1,Month-end close falls from 8 to 5 days with the standard close process,3 days,Vendor reference customers,Financial Controller,no
+A2,The vendor gives a 35 % discount on the list price,35 %,Account manager's email,Procurement,no
+A3,The BI contractor can be released when self-service reports go live,120k EUR/yr,IT Director,CFO,no
+A4,Subscription price capped for 3 years and BI contractor released at phase 1,300k EUR/yr,Signed quote; contract notice period 3 months,Procurement,yes

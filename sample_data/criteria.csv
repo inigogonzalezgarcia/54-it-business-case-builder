@@ -1,0 +1,21 @@
+Criterion,Weight,Option,Score
+Strategic fit,30,BASE,1
+Business risk of the change,25,BASE,4
+Security and support,20,BASE,1
+Skills we have,15,BASE,5
+Vendor lock-in,10,BASE,3
+Strategic fit,30,A,2
+Business risk of the change,25,A,3
+Security and support,20,A,4
+Skills we have,15,A,4
+Vendor lock-in,10,A,3
+Strategic fit,30,B,5
+Business risk of the change,25,B,1
+Security and support,20,B,5
+Skills we have,15,B,2
+Vendor lock-in,10,B,2
+Strategic fit,30,C,5
+Business risk of the change,25,C,4
+Security and support,20,C,5
+Skills we have,15,C,3
+Vendor lock-in,10,C,2

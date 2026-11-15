@@ -1,0 +1,5 @@
+Option,Name,Description,Baseline,GoLiveMonth,Owner
+BASE,Stay on the current ERP,Keep the current version on extended support; customisations and servers as today.,yes,0,CFO
+A,Upgrade on premises,"Upgrade to the current on-premises release on new servers, carrying the customisations over.",no,12,CIO
+B,"SaaS ERP, big bang",Move finance and leasing operations to a SaaS ERP in one cut-over.,no,15,CIO
+C,SaaS ERP in two phases,"Finance first (month 9), leasing operations next (month 21), old ERP retired after phase 2.",no,9,CIO
